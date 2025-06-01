@@ -63,5 +63,10 @@ If more data and compute resources were available:
 - Engineer **temporal features** from raw CTG signals
 - Apply **model ensembling** and **Bayesian optimization**
 
-## Repository Structure
+## Author
+
+**Guoao Li**  
+M.S. in Electrical and Computer Engineering  
+The State University of New York at Stony Brook  
+Email: guoao.li@stonybrook.edu
 
